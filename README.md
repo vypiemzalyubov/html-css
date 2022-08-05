@@ -1,4 +1,4 @@
 # HTML_CSS
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/css-13FrpeVH09Zrb2" width="100"/>
 </div>

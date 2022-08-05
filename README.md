@@ -1,7 +1,7 @@
 # HTML_CSS
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/YshYTgWWi7NZgCOPGa/giphy.gif?cid=82a1493bdinvbw9rs81fmp6cd3ahmmrbifnp4ly4ufvbs2vp&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media0.giphy.com/media/5QHUYDtrLrGrTCivDQ/giphy.gif?cid=6c09b952f9c173d8c7dab282c1c47f7bdfb5c99913131071&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
 <div id="header" align="center">

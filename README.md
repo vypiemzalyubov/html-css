@@ -1,7 +1,7 @@
 # HTML_CSS
 
 <div id="header" align="center">
-  <img src="https://kungfuphp.com/wp-content/uploads/2015/02/html5-css3.png" width="100"/>
+  <img src="https://ostraining.com/wp-content/uploads/coding/html5-css3-hd.jpg" width="100"/>
 </div>
 
 ---

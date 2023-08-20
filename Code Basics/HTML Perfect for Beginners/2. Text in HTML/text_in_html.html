@@ -1,0 +1,116 @@
+<!-- 6. Оберните фразу Hello, World в тег параграфа -->
+
+<p>Hello, World</p>
+
+<!-- 7. Добавьте в редактор фразу Hexlet — hands-on programming courses, в которой слово «courses» сделайте жирным начертанием (физическая разметка), 
+        и выделите сочетание «programming» курсивом (логическая разметка). Не забудьте обернуть фразу в параграф -->
+
+<p>Hexlet — hands-on <em>programming</em> <b>courses</b></p>
+
+<!-- 8. Добавьте в редакторе заголовок первого и второго уровня с произвольным текстом -->
+
+<h1>First level header</h1>
+<h2>Second level header</h2>
+
+<!-- 9. Создайте нумерованный список из 5 элементов -->
+
+<ol>
+    <li>Пресс качат</li>
+    <li>Бегит</li>
+    <li>Турник</li>
+    <li>Анжуманя</li>
+    <li>Павторит</li>
+</ol>
+
+<!-- 10. Создайте разметку для списка:
+         1. JavaScript Career
+            - Frontend
+            - Backend
+        2. PHP Career -->
+
+<ol>
+    <li>JavaScript Career
+        <ul>
+            <li>Frontend</li>
+            <li>Backend</li>
+        </ul>
+    </li>
+    <li>PHP Career</li>
+</ol>
+
+<!-- 11. Создайте таблицу из 3 строк с 2 ячейками в каждой. Первая строка содержит в себе шапку таблицы -->
+
+<table>
+    <thead>
+        <tr>
+            <th>Singer</th>
+            <th>Song</th>
+        </tr>
+    </thead>    
+    <tbody>
+        <tr>
+            <td>Queen</td>
+            <td>I want to break free</td>
+        </tr>
+        <tr>
+            <td>Pink Floyd</td>
+            <td>Another Brick in the Wall</td>
+        </tr>        
+    </tbody>
+</table>
+
+<!-- 12. Создайте таблицу, состоящую из двух строк и трёх столбцов. Во второй строке объедините первые две ячейки, используя атрибуты. Первая строка должна быть шапкой таблицы -->
+
+<table>
+    <thead>
+        <tr>
+            <th>I</th>
+            <th>Was</th>
+            <th>Made</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">for lovin' you</td>
+            <td>baby</td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- 13. Запишите в редакторе символ простой дроби «одна четвёртая». Найти мнемонику этого символа можно на «Википедии» -->
+
+&frac14;
+
+<!-- 14. Добавьте абсолютную ссылку на сайт https://code-basics.com/ -->
+
+<a href="https://code-basics.com/">Абсолютная ссылка на сайт Code Basics</a>
+
+<!-- 15. Добавьте любой текст в тег <pre> и вставьте его в редактор. Попробуйте различные варианты текстов. -->
+
+<pre>
+    Load up on guns, bring your friends
+        It's fun to lose and to pretend
+            She's over-bored and self-assured
+                Oh no, I know a dirty word
+    
+Hello, hello, hello, how low
+    Hello, hello, hello, how low
+Hello, hello, hello, how low
+    Hello, hello, hello
+</pre>
+
+<!-- 16. Добавьте любой текст в тег <code> и вставьте его в редактор. Попробуйте различные варианты текстов -->
+
+<code>
+    <pre>
+        &num; Пример кода на Python
+        s = list(input())
+        while s:
+            try:
+                print(*s, sep='')
+                s.pop(0)
+                s.pop()
+            except IndexError as e:
+                print(*s, sep='')
+    </pre>
+</code>

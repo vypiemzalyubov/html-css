@@ -1,3 +1,86 @@
 <!-- 25. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people -->
 
 <form action="/people"></form>
+
+<!-- 26. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people. Внутри формы создайте 2 текстовых поля -->
+
+<form action="/people">
+    <input type="text">
+    <input type="text">
+</form>
+
+<!-- 27. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people. Внутри формы создайте 2 чекбокса. 
+         Свяжите их вложив <input> внутри <label>. Не забудьте добавить атрибуты name и value -->
+
+<form action="/people">
+    <label>
+        <input type="checkbox" name="solution" value="1">
+        First label
+    </label>
+    </br>
+    <label>
+        <input type="checkbox" name="solution" value="2">
+        Second label
+    </label>
+</form>
+
+<!-- 28. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people. Внутри формы создайте 2 радиокнопки. 
+         Свяжите их вложив <input> внутри <label>. Уникальное имя для радиокнопок delivery. Не забудьте добавить атрибут value -->
+
+<form action="/people">
+    <label>
+        <input type="radio" name="delivery" value="Delivery Club">
+        Delivery Club
+    </label>
+    <br>
+    <label>
+        <input type="radio" name="delivery" value="Самокат">
+        Самокат
+    </label>
+</form>
+
+<!-- 29. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people. Внутри формы создайте поле для многострочного ввода. 
+         Количество строк для ввода: 4. Количество столбцов: 30 -->
+
+<form action="/people">
+    <textarea rows="4" cols="30">Please don't stop the music!</textarea>
+</form>
+
+<!-- 30. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people. Внутри формы создайте выпадающий список из трёх элементов. -->
+
+<form action="/people">
+    <select>
+        <option>Rumors – Fleetwood Mac (1977)</option>
+        <option>2. Nevermind – Nirvana (1991)</option>
+        <option>3. The Rolling Stones – Sticky Fingers (1971) </option>
+    </select>
+</form>
+
+<!-- 31. Создайте форму, у которой файл с обработчиком данных лежит по адресу /people. Внутри формы расположите следующие элементы:
+         - 2 текстовых поля <input>
+         - Список с возможностью множественного выбора
+         - Кнопку «Отправить» -->
+
+<form action="/people">
+    <label>
+        <input type="text">
+        Enter your name
+    </label>
+    <br>
+    <label>
+        <input type="text">
+        Enter your surname
+    </label>
+    <br>
+    <br>
+    <select multiple>
+        <option>1. Tetris</option>
+        <option>2. Portal 2</option>
+        <option>3. Super Mario Bros. 3</option>
+        <option>4. The Legend of Zelda: Breath of the Wild</option>
+        <option>5. Pac-Man</option>
+    </select>
+    <br>
+    <br>
+    <button>Submit</button>
+</form>

@@ -1,7 +1,9 @@
 # HTML | CSS | JavaScript
 
 <div id="header" align="center">
-  <img src="https://banner2.cleanpng.com/20180820/rik/kisspng-website-development-javascript-html5-css3-cascadin-appload-comprehensive-software-and-mobile-app-de-5b7b834dcf68a2.0627599615348211978496.jpg" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="79"/>
 </div>
 
 - [**HTML CSS**](https://github.com/vypiemzalyubov/html-css-js/tree/main/HTML%20CSS/Code%20Basics)

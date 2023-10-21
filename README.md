@@ -1,7 +1,7 @@
-# HTML/CSS
+# HTML | CSS | JavaScript
 
 <div id="header" align="center">
-  <img src="https://ostraining.com/wp-content/uploads/coding/html5-css3-hd.jpg" width="100"/>
+  <img src="https://banner2.cleanpng.com/20180820/rik/kisspng-website-development-javascript-html5-css3-cascadin-appload-comprehensive-software-and-mobile-app-de-5b7b834dcf68a2.0627599615348211978496.jpg" width="100"/>
 </div>
 
 - [**Code Basics**](https://github.com/vypiemzalyubov/html-css/tree/main/Code%20Basics)

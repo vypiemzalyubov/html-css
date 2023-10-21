@@ -12,4 +12,4 @@
   - [Ksendzov](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript)
   - [RedRover.school](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/RedRover.school)
   - [Stepik](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik)
-    - [JS for beginners | JavaScript для начинающих](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik)
+    - [JavaScript for beginners | JavaScript для начинающих](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik)

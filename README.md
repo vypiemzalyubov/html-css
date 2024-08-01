@@ -12,6 +12,6 @@
     - [**CSS Free Online Learning for Beginners | Бесплатный курс CSS: онлайн обучение с нуля**](https://github.com/vypiemzalyubov/html-css/tree/main/Code%20Basics/CSS%20Free%20Online%20Learning%20for%20Beginners)
 - [**JavaScript**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript)
   - [**Ksendzov**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript)
-  - [**RedRover.school**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/RedRover.school)
   - [**Stepik**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik)
     - [**JavaScript for beginners | JavaScript для начинающих**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/JavaScript%20for%20beginners)
+    - [**Diving into JavaScript: for beginners | Погружение в JavaScript: для начинающих**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners)

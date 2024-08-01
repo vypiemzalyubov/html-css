@@ -11,3 +11,8 @@
 Все темы предоставлены последовательно и подробно объяснены с использованием примеров. В рамках курса предусмотрено решение практических задач на программирование, что даст возможность надолго запомнить изученное и научиться думать, как программист. 
 
 Пройдя курс, вы будете обладать крепким фундаментом для дальнейшего изучения программирования на JavaScript и других языках.
+
+---
+
+- [**Введение**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners/1.%20Introduction)
+- [**Основы JavaScript**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners/2.%20JavaScript%20basics)

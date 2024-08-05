@@ -16,3 +16,5 @@
 
 - [**Введение**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners/1.%20Introduction)
 - [**Основы JavaScript**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners/2.%20JavaScript%20basics)
+- [**Условные конструкции**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners/3.%20Conditional%20constructions)
+- [**Циклы**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners/4.%20Loops)

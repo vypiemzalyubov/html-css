@@ -14,4 +14,4 @@
   - [**Ksendzov**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript)
   - [**Stepik**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik)
     - [**JavaScript for beginners | JavaScript для начинающих**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/JavaScript%20for%20beginners)
-    - [**Diving into JavaScript: for beginners | Погружение в JavaScript: для начинающих**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%3A%20for%20beginners)
+    - [**Diving into JavaScript: for beginners | Погружение в JavaScript: для начинающих**](https://github.com/vypiemzalyubov/html-css-js/tree/main/JavaScript/Stepik/Diving%20into%20JavaScript%20-%20for%20beginners)
